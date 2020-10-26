@@ -1,0 +1,22 @@
+@import "mixins";
+@import "fonts";
+@import "reset";
+@import "libs";
+// Font
+$mainFont: "Montserrat", Helvetica, Arial, sans-serif;
+
+//develop
+$br: 1px solid #333;
+
+// Size
+$mainFontColor: #101010;
+$mainFontSize: 16px;
+$mainFontWeight: 400;
+$mainLineHeight: 1.4;
+
+$fullHDWidth: 1920px;
+$desktopWidth: 1280px;
+$smDesktopWidth: 980px;
+$tableWidth: 768px;
+$phoneWidth: 480px;
+$smPhoneWidth: 320px;
